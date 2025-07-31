@@ -1,0 +1,35 @@
+# Archivos del sistema y del editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.iml
+
+# Archivos de compilación Java
+target/
+build/
+bin/
+out/
+*.class
+*.jar
+*.war
+
+# Archivos temporales y de sistema
+*.log
+*.tmp
+*.swp
+*.bak
+
+# Archivos de configuración
+.env
+*.db
+*.sqlite
+*.h2.db
+
+# Dependencias
+.gradle/
+.mvn/
+**/node_modules/
+
+# Archivos de prueba o documentación
+*.postman_collection.json
